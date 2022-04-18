@@ -17,4 +17,4 @@
 - Google Play Store: TBA
 
 ## Wiki
-- Secrets: TBA
+- Secrets: https://sp0rk.github.io/chaffinch/secrets
