@@ -12,7 +12,7 @@
 ## DevOps
 - Heroku: [Heroku](https://dashboard.heroku.com/apps/chaffinch-be)
 - API: [Heroku](https://chaffinch-be.herokuapp.com/)
-- Firebase: [TBA](https://trello.com/c/H54tjWWM/22-setup-firebase-console)
+- Firebase: [Firebase](https://console.firebase.google.com/project/chaffinch-4063a/overview)
 - Play Console: [TBA](https://trello.com/c/mr0YGMYW/23-setup-google-play)
 - Google Play Store: [TBA](https://trello.com/c/mr0YGMYW/23-setup-google-play)
 
