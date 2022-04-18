@@ -1,20 +1,21 @@
 # Chaffinch
 
 ## Product
-- PM: [Trello](https://trello.com/b/ac9Pb40X/chaffinch)
-- UX: TBA
+- PM: [Trello](https://sp0rk.github.io/chaffinch/pm)
+- UX: [Figma (TBA)](https://sp0rk.github.io/chaffinch/ux)
 
 ## Develpoment
-- AND: [Github](https://github.com/sp0rk/chaffinch-and)
-- API: [Github](https://github.com/sp0rk/chaffinch-api)
-- LIB: [Github](https://github.com/sp0rk/chaffinch-lib)
+- AND: [Github](https://sp0rk.github.io/chaffinch/and)
+- API: [Github](https://sp0rk.github.io/chaffinch/api)
+- LIB: [Github](https://sp0rk.github.io/chaffinch/lib)
 
 ## DevOps
-- Heroku: [Heroku](https://dashboard.heroku.com/apps/chaffinch-be)
-- API: [Heroku](https://chaffinch-be.herokuapp.com/)
-- Firebase: [Firebase](https://console.firebase.google.com/project/chaffinch-4063a/overview)
-- Play Console: [TBA](https://trello.com/c/mr0YGMYW/23-setup-google-play)
-- Google Play Store: [TBA](https://trello.com/c/mr0YGMYW/23-setup-google-play)
+- Heroku: [Heroku](https://sp0rk.github.io/chaffinch/heroku)
+- Stage: [Heroku](https://sp0rk.github.io/chaffinch/stage)
+- Prod: [Heroku (TBA)](https://sp0rk.github.io/chaffinch/prod)
+- Firebase: [Firebase](https://sp0rk.github.io/chaffinch/firebase)
+- Play Console: [TBA](https://sp0rk.github.io/chaffinch/play)
+- Google Play Store: [TBA](https://sp0rk.github.io/chaffinch/store)
 
 ## Wiki
 - Secrets: [Pages](https://sp0rk.github.io/chaffinch/secrets)
